@@ -1,34 +1,7 @@
 RULES SHEET
-**********************************
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*********************************
 
 <<<<<<< Updated upstream
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -49,17 +22,36 @@ RULES SHEET
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+Add this line
+
+
+
+>>>>>>> 5f9c5c5 (Changes)
 
 
 
 
 
 
+
+<<<<<<< HEAD
 !!!!!!! IMPORTANT UPDATE RELEASED !!!!!!!!!
+=======
 
 
 
 
+>>>>>>> 5f9c5c5 (Changes)
+
+
+
+
+<<<<<<< HEAD
 
 
 
@@ -185,3 +177,6 @@ RULES SHEET
 
 
 >>>>>>> Stashed changes
+=======
+changes to be saved and commited
+>>>>>>> 5f9c5c5 (Changes)
