@@ -18,7 +18,7 @@ RULES SHEET
 
 
 
-<<<<<<< Updated upstream
+ Updated upstream
 
 
 
@@ -38,6 +38,10 @@ RULES SHEET
 
 
 1) All humans are immortals.
+logic-Vimalesh
+2)All humans are mortal.Socrates is a human.---By Vimalesh
+
+
 
 
 
@@ -85,7 +89,7 @@ RULES SHEET
 
 
 
-=======
+
 ----------------------------------
 
 
@@ -184,4 +188,5 @@ RULES SHEET
 
 
 
->>>>>>> Stashed changes
+ Stashed changes
+main
