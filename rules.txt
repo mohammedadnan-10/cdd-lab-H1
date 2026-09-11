@@ -1,17 +1,3 @@
 RULES SHEET
 **********************************
-1) All humans are immortals.
-<<<<<<< HEAD
-!!!!!!! IMPORTANT UPDATE RELEASED !!!!!!!!!
-********************************FETCH        THE      UPDATED      FILE  *************
-=======
-2)All humans are mortal. Socrates is a human
-
-
-
-
-
-
-
-
->>>>>>> 9c5ca27 (Add socrates deduction rule)
+1) All humans are not immortals.
