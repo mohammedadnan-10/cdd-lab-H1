@@ -1,5 +1,16 @@
 RULES SHEET
 **********************************
 1) All humans are immortals.
+<<<<<<< HEAD
 !!!!!!! IMPORTANT UPDATE RELEASED !!!!!!!!!
 ********************************FETCH        THE      UPDATED      FILE  *************
+=======
+
+
+
+
+
+
+2)I'm a 3rd sem student and cannot write a final year exam.
+
+>>>>>>> 814aa40 (Rule added)
