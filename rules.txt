@@ -2,6 +2,7 @@ RULES SHEET
 **********************************
 <<<<<<< Updated upstream
 1) All humans are immortals.
+<<<<<<< HEAD
 !!!!!!! IMPORTANT UPDATE RELEASED !!!!!!!!!
 ********************************FETCH        THE      UPDATED      FILE  *************
 =======
@@ -10,3 +11,40 @@ RULES SHEET
 ----------------------------------
 **********************************
 >>>>>>> Stashed changes
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+2) All humans can theoretically fly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 563c74f (Rule added)
