@@ -1,5 +1,12 @@
 RULES SHEET
 **********************************
+<<<<<<< Updated upstream
 1) All humans are immortals.
 !!!!!!! IMPORTANT UPDATE RELEASED !!!!!!!!!
 ********************************FETCH        THE      UPDATED      FILE  *************
+=======
+----------------------------------
+1) All humans are not immortals.
+----------------------------------
+**********************************
+>>>>>>> Stashed changes
